@@ -1,5 +1,5 @@
 package Latihan;
-
+import java.util.Scanner;
 public class P2_FORTUNA {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -143,6 +143,6 @@ public class P2_FORTUNA {
                         System.out.println("Menu tidak tersedia.");
             }
 
-        } while (pilihan 1= 5);
+        } while (pilihan != 5);
     }
 }
